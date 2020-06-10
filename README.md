@@ -1,1 +1,1 @@
-# Compton-scattering_monte-carlo
+We have modelled the process of Compton scattering using Monte Carlo method for different velocities distribution for electrons in a spherical plasma cloud with central photon source. This code is based on the paper A Górecki and W Wilczewski(1984).
