@@ -1,10 +1,5 @@
 # Compton-scattering_monte-carlo
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  1 15:47:36 2020
 
-@author: arpit
-"""
 import numpy as np
 import math
 import matplotlib.pyplot as plt
